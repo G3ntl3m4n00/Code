@@ -1,3 +1,3 @@
 # Code
 
-Here will i have all of my code.
+Here will i have all of my code from school.
