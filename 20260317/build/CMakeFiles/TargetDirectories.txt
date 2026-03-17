@@ -1,0 +1,3 @@
+/home/g3nt3lm4n/Code/20260317/build/CMakeFiles/20260317.dir
+/home/g3nt3lm4n/Code/20260317/build/CMakeFiles/edit_cache.dir
+/home/g3nt3lm4n/Code/20260317/build/CMakeFiles/rebuild_cache.dir
