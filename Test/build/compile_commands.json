@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/g3nt3lm4n/Code/Test/build",
+  "command": "/usr/bin/c++  -I/home/g3nt3lm4n/Code/Test/include -g -std=gnu++23 -o CMakeFiles/Test.dir/src/main.cpp.o -c /home/g3nt3lm4n/Code/Test/src/main.cpp",
+  "file": "/home/g3nt3lm4n/Code/Test/src/main.cpp",
+  "output": "CMakeFiles/Test.dir/src/main.cpp.o"
+}
+]
