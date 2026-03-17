@@ -37,4 +37,4 @@ echo "✓ Project '$PROJECT_NAME' created"
 echo "  cd $PROJECT_NAME/src"
 echo "  cmake --build ../build && ./$PROJECT_NAME"
 
-nvim
+cd .. && nvim
