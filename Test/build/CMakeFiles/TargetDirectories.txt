@@ -1,3 +1,0 @@
-/home/g3nt3lm4n/Code/Test/build/CMakeFiles/Test.dir
-/home/g3nt3lm4n/Code/Test/build/CMakeFiles/edit_cache.dir
-/home/g3nt3lm4n/Code/Test/build/CMakeFiles/rebuild_cache.dir
