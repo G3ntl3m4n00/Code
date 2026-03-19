@@ -1,0 +1,3 @@
+/home/g3nt3lm4n/Code/pbinfo/327-AfisareNumere/build/CMakeFiles/327-AfisareNumere.dir
+/home/g3nt3lm4n/Code/pbinfo/327-AfisareNumere/build/CMakeFiles/edit_cache.dir
+/home/g3nt3lm4n/Code/pbinfo/327-AfisareNumere/build/CMakeFiles/rebuild_cache.dir

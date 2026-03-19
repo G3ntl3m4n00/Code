@@ -1,0 +1,3 @@
+/home/g3nt3lm4n/Code/pbinfo/109-Paritate/build/CMakeFiles/109-Paritate.dir
+/home/g3nt3lm4n/Code/pbinfo/109-Paritate/build/CMakeFiles/edit_cache.dir
+/home/g3nt3lm4n/Code/pbinfo/109-Paritate/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/4906-numere_p10.dir/link.d "CMakeFiles/4906-numere_p10.dir/src/main.cpp.o" -o /home/g3nt3lm4n/Code/pbinfo/4906-numere_p10/src/4906-numere_p10

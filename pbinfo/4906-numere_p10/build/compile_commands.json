@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/g3nt3lm4n/Code/pbinfo/4906-numere_p10/build",
+  "command": "/usr/bin/c++  -I/home/g3nt3lm4n/Code/pbinfo/4906-numere_p10/include -g -std=gnu++23 -o CMakeFiles/4906-numere_p10.dir/src/main.cpp.o -c /home/g3nt3lm4n/Code/pbinfo/4906-numere_p10/src/main.cpp",
+  "file": "/home/g3nt3lm4n/Code/pbinfo/4906-numere_p10/src/main.cpp",
+  "output": "CMakeFiles/4906-numere_p10.dir/src/main.cpp.o"
+}
+]

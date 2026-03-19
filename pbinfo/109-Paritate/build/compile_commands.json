@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/g3nt3lm4n/Code/pbinfo/109-Paritate/build",
+  "command": "/usr/bin/c++  -I/home/g3nt3lm4n/Code/pbinfo/109-Paritate/include -g -std=gnu++23 -o CMakeFiles/109-Paritate.dir/src/main.cpp.o -c /home/g3nt3lm4n/Code/pbinfo/109-Paritate/src/main.cpp",
+  "file": "/home/g3nt3lm4n/Code/pbinfo/109-Paritate/src/main.cpp",
+  "output": "CMakeFiles/109-Paritate.dir/src/main.cpp.o"
+}
+]

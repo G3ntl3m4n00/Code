@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/327-AfisareNumere.dir/link.d "CMakeFiles/327-AfisareNumere.dir/src/main.cpp.o" -o /home/g3nt3lm4n/Code/pbinfo/327-AfisareNumere/src/327-AfisareNumere

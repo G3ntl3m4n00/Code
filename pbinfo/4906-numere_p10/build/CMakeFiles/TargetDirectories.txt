@@ -1,0 +1,3 @@
+/home/g3nt3lm4n/Code/pbinfo/4906-numere_p10/build/CMakeFiles/4906-numere_p10.dir
+/home/g3nt3lm4n/Code/pbinfo/4906-numere_p10/build/CMakeFiles/edit_cache.dir
+/home/g3nt3lm4n/Code/pbinfo/4906-numere_p10/build/CMakeFiles/rebuild_cache.dir

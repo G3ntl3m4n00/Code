@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/105-max2.dir/link.d "CMakeFiles/105-max2.dir/src/main.cpp.o" -o /home/g3nt3lm4n/Code/pbinfo/105-max2/src/105-max2

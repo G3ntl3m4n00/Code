@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/g3nt3lm4n/Code/pbinfo/941-Urare/build",
+  "command": "/usr/bin/c++  -I/home/g3nt3lm4n/Code/pbinfo/941-Urare/include -g -std=gnu++23 -o CMakeFiles/941-Urare.dir/src/main.cpp.o -c /home/g3nt3lm4n/Code/pbinfo/941-Urare/src/main.cpp",
+  "file": "/home/g3nt3lm4n/Code/pbinfo/941-Urare/src/main.cpp",
+  "output": "CMakeFiles/941-Urare.dir/src/main.cpp.o"
+}
+]

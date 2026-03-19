@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/939-sum00.dir/link.d "CMakeFiles/939-sum00.dir/src/main.cpp.o" -o /home/g3nt3lm4n/Code/pbinfo/939-sum00/src/939-sum00
