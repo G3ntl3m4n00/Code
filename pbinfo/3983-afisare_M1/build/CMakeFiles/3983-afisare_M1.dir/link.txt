@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/3983-afisare_M1.dir/link.d "CMakeFiles/3983-afisare_M1.dir/src/main.cpp.o" -o /home/g3nt3lm4n/Code/pbinfo/3983-afisare_M1/src/3983-afisare_M1

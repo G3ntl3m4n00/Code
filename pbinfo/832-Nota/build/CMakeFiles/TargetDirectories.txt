@@ -1,0 +1,3 @@
+/home/g3nt3lm4n/Code/pbinfo/832-Nota/build/CMakeFiles/832-Nota.dir
+/home/g3nt3lm4n/Code/pbinfo/832-Nota/build/CMakeFiles/edit_cache.dir
+/home/g3nt3lm4n/Code/pbinfo/832-Nota/build/CMakeFiles/rebuild_cache.dir

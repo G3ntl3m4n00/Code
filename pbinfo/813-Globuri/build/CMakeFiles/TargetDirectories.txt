@@ -1,0 +1,3 @@
+/home/g3nt3lm4n/Code/pbinfo/813-Globuri/build/CMakeFiles/813-Globuri.dir
+/home/g3nt3lm4n/Code/pbinfo/813-Globuri/build/CMakeFiles/edit_cache.dir
+/home/g3nt3lm4n/Code/pbinfo/813-Globuri/build/CMakeFiles/rebuild_cache.dir

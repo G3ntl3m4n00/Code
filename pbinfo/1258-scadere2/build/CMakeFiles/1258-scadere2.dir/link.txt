@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/1258-scadere2.dir/link.d "CMakeFiles/1258-scadere2.dir/src/main.cpp.o" -o /home/g3nt3lm4n/Code/pbinfo/1258-scadere2/src/1258-scadere2

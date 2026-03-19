@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/g3nt3lm4n/Code/pbinfo/832-Nota/build",
+  "command": "/usr/bin/c++  -I/home/g3nt3lm4n/Code/pbinfo/832-Nota/include -g -std=gnu++23 -o CMakeFiles/832-Nota.dir/src/main.cpp.o -c /home/g3nt3lm4n/Code/pbinfo/832-Nota/src/main.cpp",
+  "file": "/home/g3nt3lm4n/Code/pbinfo/832-Nota/src/main.cpp",
+  "output": "CMakeFiles/832-Nota.dir/src/main.cpp.o"
+}
+]

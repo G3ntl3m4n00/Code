@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/813-Globuri.dir/link.d "CMakeFiles/813-Globuri.dir/src/main.cpp.o" -o /home/g3nt3lm4n/Code/pbinfo/813-Globuri/src/813-Globuri

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/816-Sticle.dir/link.d "CMakeFiles/816-Sticle.dir/src/main.cpp.o" -o /home/g3nt3lm4n/Code/pbinfo/816-Sticle/src/816-Sticle

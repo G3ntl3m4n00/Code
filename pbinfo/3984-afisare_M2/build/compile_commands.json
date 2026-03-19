@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/g3nt3lm4n/Code/pbinfo/3984-afisare_M2/build",
+  "command": "/usr/bin/c++  -I/home/g3nt3lm4n/Code/pbinfo/3984-afisare_M2/include -g -std=gnu++23 -o CMakeFiles/3984-afisare_M2.dir/src/main.cpp.o -c /home/g3nt3lm4n/Code/pbinfo/3984-afisare_M2/src/main.cpp",
+  "file": "/home/g3nt3lm4n/Code/pbinfo/3984-afisare_M2/src/main.cpp",
+  "output": "CMakeFiles/3984-afisare_M2.dir/src/main.cpp.o"
+}
+]

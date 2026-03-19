@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/1273-uciv.dir/link.d "CMakeFiles/1273-uciv.dir/src/main.cpp.o" -o /home/g3nt3lm4n/Code/pbinfo/1273-uciv/src/1273-uciv

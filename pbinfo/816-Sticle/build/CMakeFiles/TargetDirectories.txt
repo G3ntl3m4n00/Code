@@ -1,0 +1,3 @@
+/home/g3nt3lm4n/Code/pbinfo/816-Sticle/build/CMakeFiles/816-Sticle.dir
+/home/g3nt3lm4n/Code/pbinfo/816-Sticle/build/CMakeFiles/edit_cache.dir
+/home/g3nt3lm4n/Code/pbinfo/816-Sticle/build/CMakeFiles/rebuild_cache.dir

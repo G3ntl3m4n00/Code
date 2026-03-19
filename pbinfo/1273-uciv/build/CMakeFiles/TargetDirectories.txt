@@ -1,0 +1,3 @@
+/home/g3nt3lm4n/Code/pbinfo/1273-uciv/build/CMakeFiles/1273-uciv.dir
+/home/g3nt3lm4n/Code/pbinfo/1273-uciv/build/CMakeFiles/edit_cache.dir
+/home/g3nt3lm4n/Code/pbinfo/1273-uciv/build/CMakeFiles/rebuild_cache.dir

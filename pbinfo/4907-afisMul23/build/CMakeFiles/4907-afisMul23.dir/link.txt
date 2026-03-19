@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/4907-afisMul23.dir/link.d "CMakeFiles/4907-afisMul23.dir/src/main.cpp.o" -o /home/g3nt3lm4n/Code/pbinfo/4907-afisMul23/src/4907-afisMul23

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/g3nt3lm4n/Code/pbinfo/4917-progresie9/build",
+  "command": "/usr/bin/c++  -I/home/g3nt3lm4n/Code/pbinfo/4917-progresie9/include -g -std=gnu++23 -o CMakeFiles/4917-progresie9.dir/src/main.cpp.o -c /home/g3nt3lm4n/Code/pbinfo/4917-progresie9/src/main.cpp",
+  "file": "/home/g3nt3lm4n/Code/pbinfo/4917-progresie9/src/main.cpp",
+  "output": "CMakeFiles/4917-progresie9.dir/src/main.cpp.o"
+}
+]

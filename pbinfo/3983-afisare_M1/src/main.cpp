@@ -3,10 +3,10 @@
 int
 main ()
 {
-    int n;
-    std::cin >> n;
+    int n, m;
+    std::cin >> n >> m;
 
-    for (int i = n; i > 0; i--)
+    for (int i = n * m; i >= m; i -= m)
         std::cout << i << " ";
     std::cout << std::endl;
 }

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/4360-Trixie1.dir/link.d "CMakeFiles/4360-Trixie1.dir/src/main.cpp.o" -o /home/g3nt3lm4n/Code/pbinfo/4360-Trixie1/src/4360-Trixie1

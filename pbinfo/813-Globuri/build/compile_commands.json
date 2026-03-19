@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/g3nt3lm4n/Code/pbinfo/813-Globuri/build",
+  "command": "/usr/bin/c++  -I/home/g3nt3lm4n/Code/pbinfo/813-Globuri/include -g -std=gnu++23 -o CMakeFiles/813-Globuri.dir/src/main.cpp.o -c /home/g3nt3lm4n/Code/pbinfo/813-Globuri/src/main.cpp",
+  "file": "/home/g3nt3lm4n/Code/pbinfo/813-Globuri/src/main.cpp",
+  "output": "CMakeFiles/813-Globuri.dir/src/main.cpp.o"
+}
+]
