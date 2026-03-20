@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/1260-asii.dir/link.d "CMakeFiles/1260-asii.dir/src/main.cpp.o" -o /home/g3nt3lm4n/Code/cpp/pbinfo/1260-asii/src/1260-asii

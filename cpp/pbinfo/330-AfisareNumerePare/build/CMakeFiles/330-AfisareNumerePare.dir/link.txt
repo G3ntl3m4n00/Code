@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/330-AfisareNumerePare.dir/link.d "CMakeFiles/330-AfisareNumerePare.dir/src/main.cpp.o" -o /home/g3nt3lm4n/Code/cpp/pbinfo/330-AfisareNumerePare/src/330-AfisareNumerePare

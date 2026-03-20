@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/g3nt3lm4n/Code/cpp/pbinfo/1260-asii/build",
+  "command": "/usr/bin/c++  -I/home/g3nt3lm4n/Code/cpp/pbinfo/1260-asii/include -g -std=gnu++23 -o CMakeFiles/1260-asii.dir/src/main.cpp.o -c /home/g3nt3lm4n/Code/cpp/pbinfo/1260-asii/src/main.cpp",
+  "file": "/home/g3nt3lm4n/Code/cpp/pbinfo/1260-asii/src/main.cpp",
+  "output": "CMakeFiles/1260-asii.dir/src/main.cpp.o"
+}
+]

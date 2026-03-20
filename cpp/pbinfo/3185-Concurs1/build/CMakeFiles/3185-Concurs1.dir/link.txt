@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/3185-Concurs1.dir/link.d "CMakeFiles/3185-Concurs1.dir/src/main.cpp.o" -o /home/g3nt3lm4n/Code/cpp/pbinfo/3185-Concurs1/src/3185-Concurs1

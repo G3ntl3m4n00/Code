@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/g3nt3lm4n/Code/cpp/pbinfo/331-AfisareNumereImpare/build",
+  "command": "/usr/bin/c++  -I/home/g3nt3lm4n/Code/cpp/pbinfo/331-AfisareNumereImpare/include -g -std=gnu++23 -o CMakeFiles/331-AfisareNumereImpare.dir/src/main.cpp.o -c /home/g3nt3lm4n/Code/cpp/pbinfo/331-AfisareNumereImpare/src/main.cpp",
+  "file": "/home/g3nt3lm4n/Code/cpp/pbinfo/331-AfisareNumereImpare/src/main.cpp",
+  "output": "CMakeFiles/331-AfisareNumereImpare.dir/src/main.cpp.o"
+}
+]

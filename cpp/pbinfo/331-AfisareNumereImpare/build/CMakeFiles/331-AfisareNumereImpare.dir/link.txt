@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/331-AfisareNumereImpare.dir/link.d "CMakeFiles/331-AfisareNumereImpare.dir/src/main.cpp.o" -o /home/g3nt3lm4n/Code/cpp/pbinfo/331-AfisareNumereImpare/src/331-AfisareNumereImpare
