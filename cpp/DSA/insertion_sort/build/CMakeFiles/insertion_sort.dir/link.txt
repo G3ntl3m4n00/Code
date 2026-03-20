@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/insertion_sort.dir/link.d CMakeFiles/insertion_sort.dir/src/main.cpp.o -o /home/g3nt3lm4n/Code/cpp/DSA/insertion_sort/src/insertion_sort

@@ -1,0 +1,3 @@
+/home/g3nt3lm4n/Code/cpp/suli/20032026-1/build/CMakeFiles/20032026-1.dir
+/home/g3nt3lm4n/Code/cpp/suli/20032026-1/build/CMakeFiles/edit_cache.dir
+/home/g3nt3lm4n/Code/cpp/suli/20032026-1/build/CMakeFiles/rebuild_cache.dir

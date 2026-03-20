@@ -1,0 +1,3 @@
+/home/g3nt3lm4n/Code/cpp/DSA/insertion_sort/build/CMakeFiles/insertion_sort.dir
+/home/g3nt3lm4n/Code/cpp/DSA/insertion_sort/build/CMakeFiles/edit_cache.dir
+/home/g3nt3lm4n/Code/cpp/DSA/insertion_sort/build/CMakeFiles/rebuild_cache.dir

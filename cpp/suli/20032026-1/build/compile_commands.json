@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/g3nt3lm4n/Code/cpp/suli/20032026-1/build",
+  "command": "/usr/bin/c++  -I/home/g3nt3lm4n/Code/cpp/suli/20032026-1/include -g -std=gnu++23 -o CMakeFiles/20032026-1.dir/src/main.cpp.o -c /home/g3nt3lm4n/Code/cpp/suli/20032026-1/src/main.cpp",
+  "file": "/home/g3nt3lm4n/Code/cpp/suli/20032026-1/src/main.cpp",
+  "output": "CMakeFiles/20032026-1.dir/src/main.cpp.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/20032026-1.dir/link.d "CMakeFiles/20032026-1.dir/src/main.cpp.o" -o /home/g3nt3lm4n/Code/cpp/suli/20032026-1/src/20032026-1

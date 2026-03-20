@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/g3nt3lm4n/Code/cpp/DSA/insertion_sort/build",
+  "command": "/usr/bin/c++  -I/home/g3nt3lm4n/Code/cpp/DSA/insertion_sort/include -g -std=gnu++23 -o CMakeFiles/insertion_sort.dir/src/main.cpp.o -c /home/g3nt3lm4n/Code/cpp/DSA/insertion_sort/src/main.cpp",
+  "file": "/home/g3nt3lm4n/Code/cpp/DSA/insertion_sort/src/main.cpp",
+  "output": "CMakeFiles/insertion_sort.dir/src/main.cpp.o"
+}
+]
