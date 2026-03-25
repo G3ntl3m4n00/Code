@@ -1,0 +1,3 @@
+/home/g3nt3lm4n/Code/cpp/course/1-first_cpp_program/build/CMakeFiles/1-first_cpp_program.dir
+/home/g3nt3lm4n/Code/cpp/course/1-first_cpp_program/build/CMakeFiles/edit_cache.dir
+/home/g3nt3lm4n/Code/cpp/course/1-first_cpp_program/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/g3nt3lm4n/Code/cpp/course/1-first_cpp_program/build",
+  "command": "/usr/bin/c++  -I/home/g3nt3lm4n/Code/cpp/course/1-first_cpp_program/include -g -std=gnu++23 -o CMakeFiles/1-first_cpp_program.dir/src/main.cpp.o -c /home/g3nt3lm4n/Code/cpp/course/1-first_cpp_program/src/main.cpp",
+  "file": "/home/g3nt3lm4n/Code/cpp/course/1-first_cpp_program/src/main.cpp",
+  "output": "CMakeFiles/1-first_cpp_program.dir/src/main.cpp.o"
+}
+]
